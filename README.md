@@ -18,6 +18,7 @@ Etapa 2: Criação de Stored Procedure
 
 <h1>--------  ---------------</h1>
 Etapa 3: Trigger
+
 ![Atividade-A](TotalPedidos-MostrandoDonaMariaatualizada.png)
 
 <h1>--------  ---------------</h1>
